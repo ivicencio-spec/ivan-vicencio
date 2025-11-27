@@ -1,0 +1,35 @@
+body{
+  background-color:red;
+}
+h1,p {
+  text-align:center;
+  color:rgb(2, 2, 2);
+}
+.container{
+  display:flex;
+  background-color:orange;
+  width:1275px;
+  margin:20px auto;
+  content:center;
+}
+.container div{
+  background-color:white;
+  margin:23px;
+  padding: 20px;
+  font-size: 24px;
+  content:center;
+}
+
+footer {
+  background-color:#F5A627;
+  color:white;
+  text-align:center;
+  padding: 2rem;
+  
+}
+
+.social a{
+  color:white;
+  margin: 0 1rem;
+  font-size:1.2rem;
+}
