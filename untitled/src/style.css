@@ -2,8 +2,8 @@ body{
   background-color:red;
 }
 h1,p {
-  text-align:center;
-  color:rgb(2, 2, 2);
+  text-align:center;\
+  color:white;
 }
 .container{
   display:flex;
@@ -20,11 +20,8 @@ h1,p {
   content:center;
 }
 
-footer {
+.footer {
   background-color:#F5A627;
-  color:white;
-  text-align:center;
-  padding: 2rem;
   
 }
 
